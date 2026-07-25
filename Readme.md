@@ -4,17 +4,18 @@
 https://github.com/Denis2054/RAG-Driven-Generative-AI
 
 
-<details open> 
-  <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918">
-<img src="https://content.packt.com/B31169/cover_image_small.jpg" alt="RAG for GenAI, First Edition" height="256px" align="right">
-</a>
+<img src="./img/cover.webp" alt="RAG и генеративный ИИ. Создаем собственные RAG-пайплайны с помощью LlamaIndex, Deep Lake и Pinecon" height="256px" align="right">
 
-RAG-Driven Generative AI provides a roadmap for building effective LLM, computer vision, and generative AI systems that balance performance and costs.
-This book offers a detailed exploration of RAG and how to design, manage, and control multimodal AI pipelines. By connecting outputs to traceable source documents, RAG improves output accuracy and contextual relevance, offering a dynamic approach to managing large volumes of information. This AI book also shows you how to build a RAG framework, providing practical knowledge on vector stores, chunking, indexing, and ranking. You'll discover techniques to optimize your project's performance and better understand your data, including using adaptive RAG and human feedback to refine retrieval accuracy, balancing RAG with fine-tuning, implementing dynamic RAG to enhance real-time decision-making, and visualizing complex data with knowledge graphs.
-You'll be exposed to a hands-on blend of frameworks like LlamaIndex and Deep Lake, vector databases such as Pinecone and Chroma, and models from Hugging Face and OpenAI. By the end of this book, you will have acquired the skills to implement intelligent solutions, keeping you competitive in fields ranging from production to customer service across any project.
 
-</details>
+<br/>
+
+### Описание
+
+В книге описываются приемы создания эффективных больших языковых моделей, систем компьютерного зрения и генеративного ИИ, показывающих высокую производительность при относительно невысоких затратах. В ней приводится подробное исследование технологии RAG, а также подходов к проектированию мультимодальных пайплайнов ИИ и управлению ими. Связывая вывод с исходными документами, RAG повышает точность и контекстную релевантность результатов, предлагая динамический подход к управлению большими объемами информации.
+
+Узнайте, как построить инфраструктуру RAG, попутно разобравшись с векторными хранилищами, фрагментацией, индексацией и ранжированием. Познакомьтесь с методами оптимизации производительности и приемами более глубокого изучения данных, включая использование адаптивного RAG и обратной связи от человека для уточнения поиска, тонкую настройку RAG, реализацию динамических RAG для поддержки принятия решений в реальном времени и визуализацию сложных данных с помощью графов знаний. Вы также увидите, как на практике объединить такие фреймворки, как LlamaIndex и Deep Lake, векторные базы данных наподобие Pinecone и Chroma и модели, предлагаемые компаниями Hugging Face и OpenAI. Приобретите навыки внедрения интеллектуальных решений, что повысит вашу конкурентоспособность в различных областях: от продакшна до обслуживания клиентов в любом проекте.
+
+
 <details open> 
   <summary><h2>Key Learnings</summary>
 <ul>

@@ -3,35 +3,7 @@
 **Оригинальные исходники:**  
 https://github.com/Denis2054/RAG-Driven-Generative-AI
 
-<p align="center">
-    This is the code repository for <a href ="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918"> RAG Driven GenAI, First Edition</a>, published by Packt.
-</p>
-    
-<p align="center">Last updated: September 23, 2025.</p>
 
-<p align="center">
-  See the <a href="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/CHANGELOG.md">CHANGELOG.md</a> for details.
-</p>
-
-
-
-
-<h2 align="center">
-Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone
-</h2>
-<p align="center">
-Denis Rothman</p>
-
-<p align="center">
-   <a href="https://packt.link/genai" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/free-ebook/9781836200918"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
- &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/gbp/9781836200918"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.amazon.com/RAG-Driven-Generative-retrieval-generation-LlamaIndex-ebook/dp/B0CW18RC6F"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 <details open> 
   <summary><h2>About the book</summary>
 <a href="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918">

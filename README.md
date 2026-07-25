@@ -1,5 +1,7 @@
-<h1 align="center">
-RAG-driven Generative AI, First Edition</h1>
+# [Книга][Дэнис Ротман] RAG и генеративный ИИ. Создаем собственные RAG-пайплайны с помощью LlamaIndex, Deep Lake и Pinecon [RUS, 2025]
+
+**Оригинальные исходники:**  
+https://github.com/Denis2054/RAG-Driven-Generative-AI
 
 <p align="center">
     This is the code repository for <a href ="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918"> RAG Driven GenAI, First Edition</a>, published by Packt.

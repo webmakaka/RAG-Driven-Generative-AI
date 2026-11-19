@@ -44,8 +44,13 @@ https://github.com/Denis2054/RAG-Driven-Generative-AI
 
 <br/>
 
-<details open> 
-  <summary><h2>Chapters</summary>
+### Требования для работы с книгой
+
+Необходимы базовые знания в области **обработки естественного языка** (**NLP**) и некоторый опыт работы с Python. Большинство программ в этой книге представлены в виде блокнотов Jupyter. Для их запуска требуется только бесплатный аккаунт Google Gmail, позволяющий выполнять блокноты на бесплатной **виртуальной машине** (**VM**) Google Colaboratory. 
+
+Также потребуется сгенерировать API-токены для OpenAI, Activeloop и Pinecone.
+
+<br/>
 
 ### Platforms
 
@@ -91,22 +96,5 @@ You can run the notebooks directly from the table below:
 | <ul><li>Pipeline_1_Generator_and_Commentator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_1_Generator_and_Commentator.ipynb) | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_1_Generator_and_Commentator.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 | <ul><li>Pipeline_2_The_Vector_Store_Administrator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_2_The_Vector_Store_Administrator.ipynb) | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_2_The_Vector_Store_Administrator.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 | <ul><li>Pipeline_3_The_Video_Expert.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_3_The_Video_Expert.ipynb) | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_3_The_Video_Expert.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
-
-</details>
-
-<details open> 
-  <summary><h2>Требования для работы с книгой</summary>
-
-Необходимы базовые знания в области **обработки естественного языка** (**NLP**) и некоторый опыт работы с Python. Большинство программ в этой книге представлены в виде блокнотов Jupyter. Для их запуска требуется только бесплатный аккаунт Google Gmail, позволяющий выполнять блокноты на бесплатной **виртуальной машине** (**VM**) Google Colaboratory. Также потребуется сгенерировать API-токены для OpenAI, Activeloop и Pinecone.
-При запуске блокнотов может потребоваться загрузка модулей, либо можно запустить файл `requirements_01.txt` в созданном окружении `env`.
-Некоторые из используемых модулей приведены ниже:
-
-| Modules        | Version                |
-| -------------- | ---------------------- |
-| `deeplake`     | `3.9.18 (with Pillow)` |
-| `openai`       | `1.40.3`               |
-| `transformers` | `4.41.2`               |
-| `numpy`        | `>=1.24.1`             |
-| `deepspeed`    | `0.10.1`               |
 
 </details>

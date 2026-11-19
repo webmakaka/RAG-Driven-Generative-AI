@@ -13,5 +13,5 @@ bitsandbytes==0.41.1
 accelerate==0.22.0
 tqdm==4.66.1
 neural_compressor==2.2.1
-onnx==1.14.1
+onnx==1.22.0
 scipy==1.11.2

@@ -54,7 +54,6 @@ https://github.com/Denis2054/RAG-Driven-Generative-AI
 
 ### Platforms
 
-You can run the notebooks directly from the table below:
 | Глава | Colab | Kaggle |
 | :-------- | :-------- | :------- |
 **01. Почему именно генерация с дополненной выборкой (RAG)**

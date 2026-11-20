@@ -84,7 +84,6 @@ $ python -m spacy download en_core_web_sm
 
 | Глава | Colab | Kaggle |
 | :---- | :---- | :----- |
-
 **01. Почему именно генерация с дополненной выборкой (RAG)**
 | <ul><li>RAG_Overview.ipynb</a></li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb) | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 **RAG overview with Elon Musk's xAI grok-beta LLM model**

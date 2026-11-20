@@ -31,7 +31,7 @@ https://github.com/Denis2054/RAG-Driven-Generative-AI
 
 ### Краткое содержание
 
-- **01.** Почему именно генерация с дополненной выборкой (RAG)
+- :white_check_mark: :book: :hammer_and_wrench: **01.** Почему именно генерация с дополненной выборкой (RAG)
 - **02.** Хранение эмбеддингов RAG с помощью Deep Lake и OpenAI
 - **03.** Реализация индексированной RAG с помощью LlamaIndex, Deep Lake и OpenAI
 - **04.** Мультимодальная RAG
@@ -46,16 +46,45 @@ https://github.com/Denis2054/RAG-Driven-Generative-AI
 
 ### Требования для работы с книгой
 
-Необходимы базовые знания в области **обработки естественного языка** (**NLP**) и некоторый опыт работы с Python. Большинство программ в этой книге представлены в виде блокнотов Jupyter. Для их запуска требуется только бесплатный аккаунт Google Gmail, позволяющий выполнять блокноты на бесплатной **виртуальной машине** (**VM**) Google Colaboratory. 
+Необходимы базовые знания в области **обработки естественного языка** (**NLP**) и некоторый опыт работы с Python. Большинство программ в этой книге представлены в виде блокнотов Jupyter. Для их запуска требуется только бесплатный аккаунт Google Gmail, позволяющий выполнять блокноты на бесплатной **виртуальной машине** (**VM**) Google Colaboratory.
 
 Также потребуется сгенерировать API-токены для OpenAI, Activeloop и Pinecone.
 
 <br/>
 
-### Platforms
+### Подготовка окружения для запуска примеров
+
+```shell
+$ git clone git@github.com:webmakaka/RAG-Driven-Generative-AI.git
+$ cd RAG-Driven-Generative-AI/
+```
+
+<br/>
+
+```shell
+$ pip install uv --break-system-packages
+$ uv venv --python=python3.12
+$ source .venv/bin/activate
+$ uv pip install -r requirements.txt
+```
+
+<br/>
+
+```shell
+$ python -m spacy download en_core_web_sm
+```
+
+<br/>
+
+### Модель - Бесплатная LLM Groq. Требуется регистрация + токен + ограничения + VPN
+
+<br/>
+
+### Запуск примеров в облаках
 
 | Глава | Colab | Kaggle |
-| :-------- | :-------- | :------- |
+| :---- | :---- | :----- |
+
 **01. Почему именно генерация с дополненной выборкой (RAG)**
 | <ul><li>RAG_Overview.ipynb</a></li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb) | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 **RAG overview with Elon Musk's xAI grok-beta LLM model**

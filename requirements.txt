@@ -169,5 +169,5 @@ wrapt==1.17.3
 xxhash==4.1.0
 yarl==1.25.1
 beautifulsoup4==4.12.3
-sentence-transformers==3.0.1
+sentence-transformers==5.6.0
 markdown==3.11.3

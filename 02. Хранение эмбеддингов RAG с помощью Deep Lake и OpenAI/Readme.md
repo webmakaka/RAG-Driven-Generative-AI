@@ -6,10 +6,4 @@
 
 <br/>
 
-Контора: activeloop
-
-https://www.activeloop.ai/
-
-Их база deeplake
-
-https://deeplake.ai/
+База deeplake от activeloop может использоваться локально без всяких регистрация и токенов!

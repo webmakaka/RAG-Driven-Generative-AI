@@ -55,7 +55,7 @@ https://github.com/Denis2054/RAG-Driven-Generative-AI
 ### Подготовка окружения для запуска примеров
 
 ```shell
-$ git clone git@github.com:webmakaka/RAG-Driven-Generative-AI.git
+$ git clone https://github.com/webmakaka/RAG-Driven-Generative-AI.git
 $ cd RAG-Driven-Generative-AI/
 ```
 
